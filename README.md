@@ -1,2 +1,1 @@
-# iasc2p02
-Repository for IASC 2P02 Wordscape
+# IASC 2P02 - Cyril Chen
